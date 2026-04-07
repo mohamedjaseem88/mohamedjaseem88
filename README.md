@@ -23,12 +23,12 @@
 <h3>🌐 Socials</h3>
   
 <p align="left">
-  <a href="#">
+  <a href="https://github.com/">
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
+  <a href="https://www.linkedin.com/in/mohamed-jaseem-409929342/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -40,7 +40,9 @@
 ## 🛠️ Skills
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,nodejs,react,sql,c,cpp,html,css" />
+  <marquee behavior="scroll" direction="left" scrollamount="10">
+    <img src="https://skillicons.dev/icons?i=python,js,nodejs,react,sql,c,cpp,html,css" />
+  </marquee>
 </p>
 
 ---
