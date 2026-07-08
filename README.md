@@ -564,18 +564,6 @@ I'm currently building my backend development skills through academic projects, 
 ---
 
 <!-- ===================================================== -->
-<!--                GITHUB TROPHIES                        -->
-<!-- ===================================================== -->
-
-# GitHub Trophies
-
-<p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=mohamedjaseem88&theme=radical">
-</p>
-
----
-
-<!-- ===================================================== -->
 <!--            CONTRIBUTION ACTIVITY GRAPH                -->
 <!-- ===================================================== -->
 
